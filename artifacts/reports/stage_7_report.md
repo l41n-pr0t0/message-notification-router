@@ -2,7 +2,7 @@
 
 > **Stage Status**: ✅ **COMPLETED & VERIFIED**  
 > **Git Milestone**: Tag `v0.7-security-overrides`  
-> **GitHub Repository**: [https://github.com/Wired-Navi0x17/message-notification-router](https://github.com/Wired-Navi0x17/message-notification-router)
+> **GitHub Repository**: [https://github.com/l41n-pr0t0/message-notification-router](https://github.com/l41n-pr0t0/message-notification-router)
 
 ---
 

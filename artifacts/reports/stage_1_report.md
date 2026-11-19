@@ -2,7 +2,7 @@
 
 > **Stage Status**: ✅ **COMPLETED & VERIFIED**  
 > **Git Milestone**: Tag `v0.1-data-engine`  
-> **Repository Remote**: `https://github.com/Wired-Navi0x17/message-notification-router`
+> **Repository Remote**: `https://github.com/l41n-pr0t0/message-notification-router`
 
 ---
 

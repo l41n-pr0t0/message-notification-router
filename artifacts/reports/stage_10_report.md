@@ -2,7 +2,7 @@
 
 > **Stage Status**: ✅ **COMPLETED & VERIFIED (PERFECT 100% SCORE)**  
 > **Git Milestone**: Tag `v0.10-confidence-evidence`  
-> **GitHub Repository**: [https://github.com/Wired-Navi0x17/message-notification-router](https://github.com/Wired-Navi0x17/message-notification-router)
+> **GitHub Repository**: [https://github.com/l41n-pr0t0/message-notification-router](https://github.com/l41n-pr0t0/message-notification-router)
 
 ---
 
